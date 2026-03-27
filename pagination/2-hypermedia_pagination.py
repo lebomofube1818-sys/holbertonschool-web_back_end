@@ -5,7 +5,7 @@ Hypermedia pagination module
 
 import math
 from typing import List, Dict
-from simple_helper_function import index_range
+from 0-simple_helper_function import index_range
 import csv
 
 
